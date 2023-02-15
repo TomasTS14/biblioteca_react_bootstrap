@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biblioteca_react_bootstrap.git/static/css/main.359866cc.css",
+    "main.js": "/biblioteca_react_bootstrap.git/static/js/main.b9599449.js",
+    "static/js/787.8b173827.chunk.js": "/biblioteca_react_bootstrap.git/static/js/787.8b173827.chunk.js",
+    "index.html": "/biblioteca_react_bootstrap.git/index.html",
+    "main.359866cc.css.map": "/biblioteca_react_bootstrap.git/static/css/main.359866cc.css.map",
+    "main.b9599449.js.map": "/biblioteca_react_bootstrap.git/static/js/main.b9599449.js.map",
+    "787.8b173827.chunk.js.map": "/biblioteca_react_bootstrap.git/static/js/787.8b173827.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.359866cc.css",
+    "static/js/main.b9599449.js"
+  ]
+}
